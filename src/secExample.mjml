@@ -1,0 +1,20 @@
+<mjml>
+    <mj-head>
+    </mj-head>
+    <mj-body>
+        <mj-section background-color="#f4f4f4">
+            <mj-column>
+                <mj-image width="100px" src="https://www.k9web.com/wp-content/uploads/2019/01/basenjis-dog.jpg">
+            </mj-column>
+            <mj-column>
+                <mj-text padding-top="30px" font-family="Arial, sans-serif" font-size="30px">Hello there!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#666666">
+            <mj-column>
+                <mj-text color="#ffffff">Some text</mj-text>
+                <mj-button href="url" background-color="#ff0000" border-radius="15px">click me</mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
